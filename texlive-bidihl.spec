@@ -1,6 +1,6 @@
 Name:		texlive-bidihl
 Version:	37795
-Release:	1
+Release:	2
 Summary:	Experimental bidi-aware text highlighting
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bidihl
