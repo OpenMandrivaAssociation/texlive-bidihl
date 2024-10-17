@@ -3,7 +3,7 @@ Version:	37795
 Release:	2
 Summary:	Experimental bidi-aware text highlighting
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bidihl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bidihl
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bidihl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bidihl.doc.r%{version}.tar.xz
